@@ -104,3 +104,6 @@ SmartSale Ltd., a growing retail organization, faced challenges in managing cust
     ├── Final_PPT/
     ├── Project_Report.pdf
     └── Screenshots/
+
+### My Video
+https://drive.google.com/file/d/1dDUzHqjkM9F69QoXYdOZrjdmmZ4LHVUC/view?usp=sharing
