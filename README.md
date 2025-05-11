@@ -63,3 +63,44 @@ SmartSale Ltd., a growing retail organization, faced challenges in managing cust
 - Debugged email trigger and workflow events
 
 ---
+### Project Structure 
+/SmartSale_ABAP_Project/
+│
+├── Screens/
+│   ├── Screen_100_Login/
+│   ├── Screen_200_Registration/
+│   ├── Screen_300_Customer_Dashboard/
+│   ├── Screen_310_Inquiry_Popup/
+│   ├── Screen_350_Quotation_Response/
+│   ├── Screen_400_Admin_Dashboard/
+│   └── Screen_500_Profile_Update/
+│
+├── Logic_Modules/
+│   ├── PBO_PAI_Handlers/
+│   ├── Input_Validations/
+│   └── DB_Read_Write_Operations/
+│
+├── SmartForms/
+│   ├── Quotation_Form/
+│   └── Invoice_Form/
+│
+├── Workflow_Objects/
+│   ├── Trigger_Events/
+│   ├── Approval_Chain/
+│   └── Email_Actions/
+│
+├── Tables_Definitions/
+│   ├── ZS4_CUSTOMER/
+│   ├── ZS4_MATERIAL/
+│   ├── ZS4_ORDER/
+│   ├── ZS4_ORDER_LINE/
+│   └── ZS4_QUOTATION/
+│
+├── Testing/
+│   ├── Module_Test_Results/
+│   └── Workflow_Debug_Logs/
+│
+└── Documentation/
+    ├── Final_PPT/
+    ├── Project_Report.pdf
+    └── Screenshots/
