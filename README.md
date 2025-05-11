@@ -19,9 +19,9 @@ SmartSale Ltd., a growing retail organization, faced challenges in managing cust
 - 🔐 **Customer Login & Registration**: Secure screen-based login and auto-generated customer ID.
 - 📊 **Customer Dashboard**: View open orders, create new inquiries, and follow-up on previous orders using ALV.
 - 📝 **Inquiry and Quotation Flow**: Create inquiries → Validate stock → Generate quotations via Smart Forms.
-- 📤 **Quotation PDF & Email**: Auto-generated quotations emailed to customers in PDF using Smart Forms & CL_BCS.
+- 📤 **Quotation PDF & Email**: Quotations emailed to customers in PDF using Smart Forms & CL_BCS.
 - ✅ **Quotation Acceptance/Rejection**: Update status with corresponding email notifications.
-- 📦 **Admin Dashboard**: Monitor and filter orders by status (Open, Cancelled, Completed) using dropdowns.
+- 📦 **Admin Dashboard**: Monitor and filter orders by status (Open, Cancelled, Completed) using tabstrips.
 - 🧾 **Invoice Generation**: Generate final bill as PDF using Smart Forms post order completion.
 - 👤 **Profile Update Screen**: Modify name, password, or security answer with validations.
 
